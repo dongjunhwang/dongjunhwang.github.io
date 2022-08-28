@@ -6,7 +6,7 @@ email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+url: "https://druwa-git.github.io/"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
@@ -34,15 +34,15 @@ plugins:
   - kramdown-parser-gfm
   - jekyll-redirect-from
 
-exclude: 
-  - Gemfile
-  - clean-theme.gemspec
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+# exclude: 
+#   - Gemfile
+#   - clean-theme.gemspec
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
 livereload: true
 
@@ -70,6 +70,7 @@ defaults:
       show_sidebar: true
 
 markdown: kramdown
+remote_theme: chrisrhymes/bulma-clean-theme
 highlighter: rouge
 
 footer_menu: example_footer_menu
@@ -80,5 +81,3 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
-
-remote_theme: chrisrhymes/bulma-clean-theme
