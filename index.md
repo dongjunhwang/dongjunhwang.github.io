@@ -1,54 +1,16 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Dongjun Hwang
+subtitle: Deep Learning Researcher
 layout: page
-callouts: home_callouts
+# callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# About Me
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+Master Course student of <b>Artificial Intelligence</b> at Sogang Univ. with 0+ years. Specially interested in <b>weak labeled data driven learning</b> in Computer Vision.
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)
+Looking to leverage my knowledge and experience into research such as applied deep learning in Computer Vision. Most interested in: <mark>weak labeled data driven learning for computer vision task</mark>, <mark></mark>. If you have any question to me, please contact in <b>wbsl0427@gmail.com</b>.
 
-## Ruby Gem
-
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
-
-## GitHub Pages
-
-The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
-
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
-
-## Documentation
-
-For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
-
-## Page Layouts
-
-This demo site showcases the available page layout options. 
-
-* Sidebar
-* Menubar
-* Tabs
-* Footer
-* Hero
-* Contents
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
-* Post
-
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
+(Updated in 2021.08)
+Resume can download <b><a href="https://drive.google.com/file/d/1cTcfNDkC256Iuc2vdT7zzcVXwZ6pIfBF/view?usp=sharing">HERE</a></b> and also curiculum vitae can download <b><a href="https://drive.google.com/file/d/14DKe4euXJrhPP9RpT2tEaifMj4OH2dio/view?usp=sharing">HERE</a></b>.
