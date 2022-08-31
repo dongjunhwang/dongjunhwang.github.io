@@ -8,9 +8,9 @@ image: '/img/20220830/semantic-instance-panoptic.png'
 published: true 
 ---
 
-![image](/img/20220830/semantic-instance-panoptic.png)
-
 이번에 소개하려는 주제는 weakly supervised learning에서 주로 다루는 task인 **object localization, semantic segmentation**과, 조금 더 어려운 task인 instance, panoptic segmentation에 대해서 소개하겠습니다. (간단하게 소개하는 글입니다.)
+
+![image](/img/20220830/semantic-instance-panoptic.png)
 
 이 글은 자료 [1]을 많이 참고하였으며, object localization에 대한 정보는 weakly supervised object localization 논문들([2], [3])을 참고하였습니다.
 
