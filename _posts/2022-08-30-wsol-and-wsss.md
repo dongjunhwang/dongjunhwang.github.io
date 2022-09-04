@@ -27,7 +27,9 @@ published: true
 
 <img src="/img/20220830/sem_img.png" width="200px" height="100px"/>
 
-결론적으로, 만약 weakly supervised object localization (WSOL)의 기술을 weakly supervised semantic segmentation에 적용하고 싶다면, `minmax`가 아닌 `max` normalization을 이용해야 하고, max normalization을 진행할 때도 negative 값을 그대로 살려야 합니다. semantic segmentation에서 셀 수 있는 물체 즉, **Thing**이 아닌 것들은 샐 수 없는 것들인 **stuff**로 분류해 낼 수 있어야 하는 중요한 점이 있습니다. 그렇기 때문에 negative 값을 그대로 유지해야 이 negative 값들을 stuff로 인지 할 수 있습니다. 위의 사진 중에서 빨간색으로 일정하게 존재하는 값들은 모두 stuff로 취급된 것들입니다. localization 과 다른 CAM이 생성된다는 것을 알 수 있습니다.
+결론적으로, 만약 weakly supervised object localization (WSOL)의 기술을 weakly supervised semantic segmentation에 적용하고 싶다면, `minmax`가 아닌 `max` normalization을 이용해야 하고, max normalization을 진행할 때도 negative 값을 그대로 살려야 합니다. semantic segmentation에서 셀 수 있는 물체 즉, **Thing**이 아닌 것들은 샐 수 없는 것들인 **stuff**로 분류해 낼 수 있어야 하는 중요한 점이 있습니다. ~그렇기 때문에 negative 값을 그대로 유지해야 이 negative 값들을 stuff로 인지 할 수 있습니다.~ 위의 사진 중에서 빨간색으로 일정하게 존재하는 값들은 모두 stuff로 취급된 것들입니다. localization 과 다른 CAM이 생성된다는 것을 알 수 있습니다.
+
+> 해당 부분에 오류가 있었습니다. negative 값들은 실제 평가에서는 무시되고, 0, threshold 그 아래의 값들이 stuff로 분류됩니다.
 
 > 짚고 넘어가야 할 점은, 제가 보여드린 그림은 WSSS에서 semantic segmentation network를 학습시키기 전에 classification network로 부터 만든 pseudo label seed 입니다.
 
