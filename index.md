@@ -8,6 +8,9 @@ show_sidebar: true
 
 # About Me
 
+
+<img style="margin-right: 20px; margin-bottom: 20px;" align="left" src="img/dongjun.svg" alt="image" width="250" />
+
 Master Course student of <b>Artificial Intelligence</b> at Sogang Univ. with 0+ years. Especially interested in <b>weakly labeled data-driven learning</b> in Computer Vision.
 
 
