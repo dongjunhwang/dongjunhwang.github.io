@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://druwa-git.github.io/sitemap.xml
