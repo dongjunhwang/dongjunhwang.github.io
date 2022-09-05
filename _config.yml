@@ -8,7 +8,8 @@ description: >
 baseurl: ""
 url: "https://druwa-git.github.io/"
 permalink: pretty
-#favicon: /path/to/favicon.png
+google_analytics: 'UA-240148045'
+favicon: dongjun.svg
 # gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
