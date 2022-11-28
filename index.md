@@ -17,13 +17,12 @@ hide_footer: true
 
 
 (Updated in 2022.11)
-Curriculum vitae can download <b><a href="https://drive.google.com/file/d/15Z6ONVVo2iHMkHzuZ6z-MsQJ-LIROeHv/view?usp=sharing">HERE</a></b>.
+Curriculum vitae can download <b><a href="https://drive.google.com/file/d/1LnZycFm0Gy1VMBwk7wCLQpjANooiMly1/view?usp=share_link">HERE</a></b>.
 
 <!-- <b><a href="https://drive.google.com/file/d/15Z6ONVVo2iHMkHzuZ6z-MsQJ-LIROeHv/view?usp=sharing">Curriculum Vitae</a></b> -->
 
 
-I am a M.S student in <b>Artificial Intelligence</b> at Sogang University and advised by Professor <a href="https://sites.google.com/site/junsukchoe/">Junsuk Choe</a> with 0+ years. I obtained my B.S in Computer Science and Engineering at Sogang University in 2022.
-
+I am an M.S. student in Artificial Intelligence at Sogang University and advised by Professor <a href="https://sites.google.com/site/junsukchoe/">Junsuk Choe</a>. I obtained my B.S in Computer Science and Engineering at Sogang University in 2022.
 
 
 My specialties include <mark>weak-labeled data-driven learning</mark> in object localization, semantic, and instance segmentation. To improve the performance of weak supervision, I mainly focus on finding hidden information in the dataset and neural network.
@@ -35,7 +34,7 @@ Contact: <b>wbsl0427(at)gmail(dot)com</b>
 # Publications
 
 <font size="4"><b>Paying Attention to Small Objects in Weakly Supervised Object Localization</b></font>  
-_**Dongjun Hwang**, Junsuk Choe_
+_**Dongjun Hwang** and Junsuk Choe_
 
 - In _submission_.
 - Pointed out the problem that weakly supervised object localization (WSOL) methods are less effective for localizing small objects by proposing new metrics and the dataset.
@@ -43,10 +42,10 @@ _**Dongjun Hwang**, Junsuk Choe_
 
 # Education
 
-- **M.S. in Artificial Intelligence**, Sogang University, Mar. 2022 – Present
+- **M.S. in Department of Artificial Intelligence**, Sogang University, Mar. 2022 – Present
     - Advisor: <a href="https://sites.google.com/site/junsukchoe/">Junsuk Choe</a>
 
-- **B.S. in Computer Science and Engineering**, Sogang University, Mar. 2018 – Feb. 2022
+- **B.S. in Department of Computer Science and Engineering**, Sogang University, Mar. 2018 – Feb. 2022
 
 # Awards & Scholarship
 
