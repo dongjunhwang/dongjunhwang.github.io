@@ -34,7 +34,6 @@ Contact: <b>wbsl0427(at)gmail(dot)com</b>
 # Publications
 
 <font size="4"><b>Paying Attention to Small Objects in Weakly Supervised Object Localization</b></font>  
-_**Dongjun Hwang** and Junsuk Choe_
 
 - In _submission_.
 - Pointed out the problem that weakly supervised object localization (WSOL) methods are less effective for localizing small objects by proposing new metrics and the dataset.
@@ -52,6 +51,6 @@ _**Dongjun Hwang** and Junsuk Choe_
 - **Smilegate AI Major (DHE) Scholarship**, Smilegate, Mar. 2022 – Feb. 2024
 - **34th Workshop on Image Processing and Image Understanding (IPIU)**, Bronze Award, Feb. 2022
 
-### Skills
+# Skills
 
 - Python, Pytorch, Django, C, Shell, Docker, Github, Notion
