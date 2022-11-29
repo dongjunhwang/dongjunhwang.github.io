@@ -11,7 +11,7 @@ hide_footer: true
 
 <img style="margin-right: 50px; margin-left: 50px; margin-bottom: 50px; margin-top: 50px;" align="right" src="img/dongjun.svg" alt="image" width="250" />
 
-<a href="https://github.com/Druwa-git"><img style="margin-right: 5px; margin-bottom: 5px;" src="img/github.svg" alt="image" width="40" /></a>
+<a href="https://github.com/dongjunhwang"><img style="margin-right: 5px; margin-bottom: 5px;" src="img/github.svg" alt="image" width="40" /></a>
 <a href="https://www.linkedin.com/in/%EB%8F%99%EC%A4%80-%ED%99%A9-985752203/"><img style="margin-right: 5px; margin-bottom: 5px;" src="img/linkedin.svg" alt="image" width="40" /></a>
 <a href="https://velog.io/@wbsl0427"><img style="margin-right: 5px; margin-bottom: 5px;" src="img/velog.svg" alt="image" width="40" /></a>
 
