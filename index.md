@@ -31,13 +31,13 @@ Contact: <b>wbsl0427(at)gmail(dot)com</b>
 
 ---
 
-### Publications
+<!-- ### Publications
 <font size="4"><b>Paying Attention to Small Objects in Weakly Supervised Object Localization</b></font>  
 
 - In _submission_.
 - Pointed out the problem that weakly supervised object localization (WSOL) methods are less effective for localizing small objects by proposing new metrics and the dataset.
 - Proposed a novel contrastive learning framework to zoom-in on small objects so that the model can see the objects more clearly.
-<br><br>
+<br><br> -->
 
 ### Education
 - **M.S. in Department of Artificial Intelligence**, Sogang University, Mar. 2022 – Present
