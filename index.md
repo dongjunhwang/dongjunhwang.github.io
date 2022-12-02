@@ -17,7 +17,7 @@ hide_footer: true
 
 
 (Updated in 2022.11)
-Curriculum vitae can download <b><a href="https://drive.google.com/file/d/17NXfHndoMe095CAVzZj8fb_XMB1WrnhJ/view?usp=share_link">HERE</a></b>.
+Curriculum vitae can download <b><a href="https://drive.google.com/file/d/1CSwH4WTj2tkCH6hz3658vFBpSXf1L9FA/view?usp=share_link">HERE</a></b>.
 
 <!-- <b><a href="https://drive.google.com/file/d/15Z6ONVVo2iHMkHzuZ6z-MsQJ-LIROeHv/view?usp=sharing">Curriculum Vitae</a></b> -->
 
