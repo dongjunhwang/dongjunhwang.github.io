@@ -29,15 +29,25 @@ My specialties include <mark>weak-labeled data-driven learning</mark> in object 
 
 Contact: <b>wbsl0427(at)gmail(dot)com</b>
 
+<br>
+
+#### News
+
+- 2023.03: 1 paper accepted in _Pattern Recognition Letters_ (IF: 4.757)
+
 ---
 
-<!-- ### Publications
-<font size="4"><b>Paying Attention to Small Objects in Weakly Supervised Object Localization</b></font>  
+### Publications
+- <font size="5"><b>Paying Attention to Small Objects in Weakly Supervised Object Localization</b></font>
+    - In _submission_.
 
-- In _submission_.
-- Pointed out the problem that weakly supervised object localization (WSOL) methods are less effective for localizing small objects by proposing new metrics and the dataset.
-- Proposed a novel contrastive learning framework to zoom-in on small objects so that the model can see the objects more clearly.
-<br><br> -->
+<br>
+
+- <font size="5"><b>Entropy Regularization for Weakly Supervised Object Localization</b></font>
+<b>Dongjun Hwang</b>, Jung-Woo Ha, Hyunjung Shim, Junsuk Choe. <a href="https://www.sciencedirect.com/science/article/pii/S0167865523000831">[Journal]</a>
+    - _Pattern Recognition Letters_, 2023. <b>(IF: 4.757)</b>
+
+---
 
 ### Education
 - **M.S. in Department of Artificial Intelligence**, Sogang University, Mar. 2022 – Present
