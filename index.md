@@ -33,7 +33,7 @@ Contact: <b>wbsl0427(at)gmail(dot)com</b>
 
 #### News
 
-- 2023.03: 1 paper accepted in _Pattern Recognition Letters_ (IF: 4.757)
+- 2023.03: 1 paper accepted in _Pattern Recognition Letters_. <b>(IF: 4.757)</b>
 
 ---
 
