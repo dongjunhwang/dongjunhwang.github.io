@@ -38,6 +38,9 @@ Contact: <b>wbsl0427(at)gmail(dot)com</b>
 ---
 
 ### Publications
+- <font size="5"><b>Curriculum Learning with Class-label Composition for Weakly Supervised Semantic Segmentation</b></font>
+    - In _submission_.
+
 - <font size="5"><b>Paying Attention to Small Objects in Weakly Supervised Object Localization</b></font>
     - In _submission_.
 
