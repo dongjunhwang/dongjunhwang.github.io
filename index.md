@@ -36,6 +36,11 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 ---
 
 ### Publications
+- <font size="5"><b>Curriculum Learning with Class-label Composition for Weakly Supervised Semantic Segmentation</b></font>
+    - In _submission_.
+ 
+<br>
+
 - <font size="5"><b>Paying Attention to Small Objects in Weakly Supervised Object Localization</b></font>
 <b>Dongjun Hwang</b>, Junsuk Choe.
     - In _submission_.
