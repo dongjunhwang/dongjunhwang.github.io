@@ -16,18 +16,16 @@ hide_footer: true
 <a href="https://velog.io/@wbsl0427"><img style="margin-right: 5px; margin-bottom: 5px;" src="img/velog.svg" alt="image" width="40" /></a>
 
 
-(Updated in 2022.11)
-Curriculum vitae can download <b><a href="https://drive.google.com/file/d/1CSwH4WTj2tkCH6hz3658vFBpSXf1L9FA/view?usp=share_link">HERE</a></b>.
+(Updated in 2024.03)
+Curriculum vitae can download <b><a href="https://drive.google.com/file/d/1ywkBzc_7lb3sk9mcQJ19HyVaVB_lhXrw/view?usp=sharing">HERE</a></b>.
 
 <!-- <b><a href="https://drive.google.com/file/d/15Z6ONVVo2iHMkHzuZ6z-MsQJ-LIROeHv/view?usp=sharing">Curriculum Vitae</a></b> -->
 
+I am currently a Ph.D. Student in the Department of Computer Science and Engineering at Sogang University, supervised by <a href="https://sites.google.com/site/junsukchoe/"> Prof. Junsuk Choe</a>. Prior to this, I obtained my M.S. Degree in the Department of Artificial Intelligence at Sogang University advised by the same supervisor. Previously, I received a B.S. Degree at the same university.
 
-I am an M.S. student in Artificial Intelligence at Sogang University and advised by Professor <a href="https://sites.google.com/site/junsukchoe/">Junsuk Choe</a>. I obtained my B.S in Computer Science and Engineering at Sogang University in 2022.
+Research Interests: I am interested in <mark>scalable visual grounding tasks</mark> such as open-vocabulary segmentation and detection. For scalability of the neural network, I mainly concentrate on how to train <mark>the imperfect dataset</mark> (e.g. self-,semi-,weakly-supervised learning).
 
-
-My specialties include <mark>weak-labeled data-driven learning</mark> in object localization, semantic, and instance segmentation. To improve the performance of weak supervision, I mainly focus on finding hidden information in the dataset and neural network.
-
-Contact: <b>wbsl0427(at)gmail(dot)com</b>
+Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 <br>
 
@@ -39,6 +37,13 @@ Contact: <b>wbsl0427(at)gmail(dot)com</b>
 
 ### Publications
 - <font size="5"><b>Paying Attention to Small Objects in Weakly Supervised Object Localization</b></font>
+<b>Dongjun Hwang</b>, Junsuk Choe.
+    - In _submission_.
+
+<br>
+
+- <font size="5"><b>Curriculum Learning with Class-label Composition for Weakly Supervised Semantic Segmentation</b></font>
+<b>Dongjun Hwang</b>, Hyoseo Kim, Doyeol Baek, Hyunbin Kim, Inhye Kye, Junsuk Choe.
     - In _submission_.
 
 <br>
@@ -50,8 +55,12 @@ Contact: <b>wbsl0427(at)gmail(dot)com</b>
 ---
 
 ### Education
-- **M.S. in Department of Artificial Intelligence**, Sogang University, Mar. 2022 – Present
+- **Ph.D. in Department of Computer Science and Engineering**, Sogang University, Mar. 2024 – Present
     - Advisor: <a href="https://sites.google.com/site/junsukchoe/">Junsuk Choe</a>
+
+- **M.S. in Department of Artificial Intelligence**, Sogang University, Mar. 2022 – Feb. 2024
+    - Advisor: <a href="https://sites.google.com/site/junsukchoe/">Junsuk Choe</a>
+    - Thesis: Curriculum Learning with Class-label Composition for Weakly Supervised Semantic Segmentation
 
 - **B.S. in Department of Computer Science and Engineering**, Sogang University, Mar. 2018 – Feb. 2022
 <br><br>
