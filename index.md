@@ -34,10 +34,11 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 #### News
 
+- 2025.01: 1 paper accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 3.9)</b>
 - 2024.10: I have released the preprint "<a href="https://arxiv.org/abs/2410.11536">Overcoming Domain Limitations in Open-vocabulary Segmentation</a>" on arXiv. Please take a look!
 - 2024.09: I have received a grant from the NRF Fellowship for PhD students.
 - 2024.08: I have been accepted as a Visiting Student at CMU through a program organized by IITP.
-- 2023.03: 1 paper accepted in _Pattern Recognition Letters_. <b>(IF: 4.757)</b>
+- 2023.03: 1 paper accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 3.9)</b>
 
 ---
 
@@ -50,19 +51,19 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 - <font size="5"><b>Small Object Matters in Weakly Supervised Object Localization</b></font>
 <b>Dongjun Hwang</b>, Seong Joon Oh, Junsuk Choe.
-    - Submitted to _Neurocomputing_.
+    - Submitted to _Neurocomputing_. <b>(Under Revision)</b>
 
 <br>
 
 - <font size="5"><b>Curriculum Learning with Class-label Composition for Weakly Supervised Semantic Segmentation</b></font>
-<b>Dongjun Hwang</b>, Hyoseo Kim, Doyeol Baek, Hyunbin Kim, Inhye Kye, Junsuk Choe.
-    - Submitted to _Pattern Recognition Letters_  <b>(Under Revision)</b>.
+<b>Dongjun Hwang</b>, Hyoseo Kim, Doyeol Baek, Hyunbin Kim, Inhye Kye, Junsuk Choe. <a href="https://www.sciencedirect.com/science/article/pii/S0167865524003714">[Journal]</a>
+    - _Pattern Recognition Letters_, 2025. <b>(SJR Q1; IF: 3.9)</b>
 
 <br>
 
 - <font size="5"><b>Entropy Regularization for Weakly Supervised Object Localization</b></font>
 <b>Dongjun Hwang</b>, Jung-Woo Ha, Hyunjung Shim, Junsuk Choe. <a href="https://www.sciencedirect.com/science/article/pii/S0167865523000831">[Journal]</a>
-    - _Pattern Recognition Letters_, 2023. <b>(IF: 4.757)</b>
+    - _Pattern Recognition Letters_, 2023. <b>(SJR Q1; IF: 3.9)</b>
 
 ---
 
@@ -79,10 +80,13 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 ### Experiences
 - **Visiting Student at Carnegie Mellon University**, <a href="https://www.msit.go.kr/bbs/view.do?sCode=user&mId=129&mPid=224&pageIndex=&bbsSeqNo=100&nttSeqNo=3178606&searchOpt=ALL&searchTxt=">IITP AI Intensive Education Program</a>, Aug. 2024 - Feb. 2025
+    - **Project 1 (Lecture Code: 11-785)**: Invisible Watermarks: Attacks and Robustness [<a href="https://arxiv.org/abs/2412.12511">Report</a>]
+    - **Project 2 (Lecture Code: 11-775)**: TBD
 <br><br>
 
 ### Awards & Scholarship
 - <a href="https://www.nrf.re.kr/biz/info/info/view?menu_no=378&biz_no=416">**NRF Fellowship for PhD students**</a>, NRF Korea, Sep. 2024 - Aug. 2025
+- <a href="https://gradsch.sogang.ac.kr/front/cmsboardview.do?siteId=gradsch&bbsConfigFK=404&pkid=904933">**Ph.D. Research Competency Enhancement Program**</a>, Sogang University, Mar. 2024 - Feb. 2025 
 - **Smilegate AI Major (DHE) Scholarship**, Smilegate, Mar. 2022 – Feb. 2024
 - **34th Workshop on Image Processing and Image Understanding (IPIU)**, Bronze Award, Feb. 2022
 <br><br>
