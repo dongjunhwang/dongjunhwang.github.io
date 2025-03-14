@@ -34,36 +34,46 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 #### News
 
-- 2025.01: 1 paper accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 3.9)</b>
+- 2025.01: 1 paper accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 3.90)</b>
 - 2024.10: I have released the preprint "<a href="https://arxiv.org/abs/2410.11536">Overcoming Domain Limitations in Open-vocabulary Segmentation</a>" on arXiv. Please take a look!
 - 2024.09: I have received a grant from the NRF Fellowship for PhD students.
 - 2024.08: I have been accepted as a Visiting Student at CMU through a program organized by IITP.
-- 2023.03: 1 paper accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 3.9)</b>
+- 2023.03: 1 paper accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 4.75)</b>
 
 ---
 
 ### Publications
+<b><font size="4">* Equal Contribution.  † Corresponding Author.</font></b>
+
+<br>
+
+- <font size="5"><b>A New Benchmark for Few-Shot Class-Incremental Learning: Redefining the Upper Bound</b></font>
+Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>†</sup>. [<a href="https://arxiv.org/pdf/2503.10003">Preprint</a>]
+    - _arXiv preprint: 2503.10003_
+
+<br>
+
 - <font size="5"><b>Overcoming Domain Limitations in Open-vocabulary Segmentation</b></font>
-<b>Dongjun Hwang</b>, Seong Joon Oh, Junsuk Choe. [<a href="https://arxiv.org/abs/2410.11536">Preprint</a>] [<a href="https://github.com/dongjunhwang/dwi">Code</a>]
+<b>Dongjun Hwang</b>, Seong Joon Oh, Junsuk Choe<sup>†</sup>. [<a href="https://arxiv.org/abs/2410.11536">Preprint</a>] [<a href="https://github.com/dongjunhwang/dwi">Code</a>]
     - _arXiv preprint: 2410.11536_
 
 <br>
 
 - <font size="5"><b>Small Object Matters in Weakly Supervised Object Localization</b></font>
-<b>Dongjun Hwang</b>, Seong Joon Oh, Junsuk Choe.
+<b>Dongjun Hwang</b>, Seong Joon Oh, Junsuk Choe<sup>†</sup>.
     - Submitted to _Neurocomputing_. <b>(Under Revision)</b>
 
 <br>
 
 - <font size="5"><b>Curriculum Learning with Class-label Composition for Weakly Supervised Semantic Segmentation</b></font>
-<b>Dongjun Hwang</b>, Hyoseo Kim, Doyeol Baek, Hyunbin Kim, Inhye Kye, Junsuk Choe. <a href="https://www.sciencedirect.com/science/article/pii/S0167865524003714">[Journal]</a>
-    - _Pattern Recognition Letters_, 2025. <b>(SJR Q1; IF: 3.9)</b>
+<b>Dongjun Hwang</b>, Hyoseo Kim, Doyeol Baek, Hyunbin Kim, Inhye Kye, Junsuk Choe<sup>†</sup>. <a href="https://www.sciencedirect.com/science/article/pii/S0167865524003714">[Journal]</a>
+    - _Pattern Recognition Letters_, 2025. <b>(SJR Q1; IF: 3.90)</b>
 
 <br>
 
 - <font size="5"><b>Entropy Regularization for Weakly Supervised Object Localization</b></font>
-<b>Dongjun Hwang</b>, Jung-Woo Ha, Hyunjung Shim, Junsuk Choe. <a href="https://www.sciencedirect.com/science/article/pii/S0167865523000831">[Journal]</a>
-    - _Pattern Recognition Letters_, 2023. <b>(SJR Q1; IF: 3.9)</b>
+<b>Dongjun Hwang</b>, Jung-Woo Ha, Hyunjung Shim, Junsuk Choe<sup>†</sup>. <a href="https://www.sciencedirect.com/science/article/pii/S0167865523000831">[Journal]</a>
+    - _Pattern Recognition Letters_, 2023. <b>(SJR Q1; IF: 4.75)</b>
 
 ---
 
