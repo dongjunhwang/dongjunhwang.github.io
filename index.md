@@ -34,8 +34,9 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 #### News
 
+- 2025.05: I have joined Tübingen University as a Visiting Researcher.
+- 2025.05: 1 paper accepted in _Neurocomputing_. <b>(SJR Q1; IF: 5.50)</b>
 - 2025.01: 1 paper accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 3.90)</b>
-- 2024.10: I have released the preprint "<a href="https://arxiv.org/abs/2410.11536">Overcoming Domain Limitations in Open-vocabulary Segmentation</a>" on arXiv. Please take a look!
 - 2024.09: I have received a grant from the NRF Fellowship for PhD students.
 - 2024.08: I have been accepted as a Visiting Student at CMU through a program organized by IITP.
 - 2023.03: 1 paper accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 4.75)</b>
@@ -47,21 +48,21 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 <br>
 
+- <font size="5"><b>OVS Meets Continual Learning: Towards Sustainable Open-Vocabulary Segmentation</b></font>
+<b>Dongjun Hwang</b>, Yejin Kim, Minyoung Lee, Seong Joon Oh, Junsuk Choe<sup>†</sup>.
+    - _In submission._
+
+<br>
+
 - <font size="5"><b>A New Benchmark for Few-Shot Class-Incremental Learning: Redefining the Upper Bound</b></font>
 Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>†</sup>. [<a href="https://arxiv.org/pdf/2503.10003">Preprint</a>]
     - _arXiv preprint: 2503.10003_
 
 <br>
 
-- <font size="5"><b>Overcoming Domain Limitations in Open-vocabulary Segmentation</b></font>
-<b>Dongjun Hwang</b>, Seong Joon Oh, Junsuk Choe<sup>†</sup>. [<a href="https://arxiv.org/abs/2410.11536">Preprint</a>] [<a href="https://github.com/dongjunhwang/dwi">Code</a>]
-    - _arXiv preprint: 2410.11536_
-
-<br>
-
 - <font size="5"><b>Small Object Matters in Weakly Supervised Object Localization</b></font>
 <b>Dongjun Hwang</b>, Seong Joon Oh, Junsuk Choe<sup>†</sup>.
-    - Submitted to _Neurocomputing_. <b>(Under Revision)</b>
+    - _Neurocomputing_, 2025. <b>(SJR Q1; IF: 5.50)</b>
 
 <br>
 
@@ -89,9 +90,12 @@ Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>
 <br><br>
 
 ### Experiences
+- **Visiting Researcher at Tübingen AI Center**, <a href="https://tuebingen.ai/">Tübingen AI Center</a>, May. 2025 - July. 2025
+    - Host:  <a href="https://coallaoh.github.io/">Prof.Dr. Seong Joon Oh</a>
+
 - **Visiting Student at Carnegie Mellon University**, <a href="https://www.msit.go.kr/bbs/view.do?sCode=user&mId=129&mPid=224&pageIndex=&bbsSeqNo=100&nttSeqNo=3178606&searchOpt=ALL&searchTxt=">IITP AI Intensive Education Program</a>, Aug. 2024 - Feb. 2025
     - **Project 1 (Lecture Code: 11-785)**: Invisible Watermarks: Attacks and Robustness [<a href="https://arxiv.org/abs/2412.12511">Report</a>]
-    - **Project 2 (Lecture Code: 11-775)**: TBD
+    - **Project 2 (Lecture Code: 11-775)**: A New Benchmark for Few-Shot Class-Incremental Learning: Redefining the Upper Bound [<a href="https://arxiv.org/abs/2503.10003">Report</a>]
 <br><br>
 
 ### Awards & Scholarship
