@@ -34,7 +34,7 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 #### News
 
-- 2025.05: I have joined Tübingen University as a Visiting Researcher.
+- 2025.05: I have joined Tübingen AI Center as a Visiting Researcher.
 - 2025.05: 1 paper accepted in _Neurocomputing_. <b>(SJR Q1; IF: 5.50)</b>
 - 2025.01: 1 paper accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 3.90)</b>
 - 2024.09: I have received a grant from the NRF Fellowship for PhD students.
