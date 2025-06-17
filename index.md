@@ -61,7 +61,7 @@ Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>
 <br>
 
 - <font size="5"><b>Small Object Matters in Weakly Supervised Object Localization</b></font>
-<b>Dongjun Hwang</b>, Seong Joon Oh, Junsuk Choe<sup>†</sup>.
+<b>Dongjun Hwang</b>, Seong Joon Oh, Junsuk Choe<sup>†</sup>. <a href="https://www.sciencedirect.com/science/article/pii/S092523122501166X?dgcid=coauthor">[Journal]</a> <a href="https://github.com/dongjunhwang/small_object_wsol">[Code]</a>
     - _Neurocomputing_, 2025. <b>(SJR Q1; IF: 5.50)</b>
 
 <br>
