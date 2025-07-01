@@ -26,7 +26,7 @@ I am currently a Ph.D. Student in the Department of Computer Science and Enginee
 
 **Research Interests**: I research how to make open-vocabulary dense prediction models, such as segmentation and object detection, more scalable. My focus is on enabling visual grounding models to perform lifelong learning. In addition, I explore how to scale dense prediction models using imperfect datasets, such as self-supervised, semi-supervised, weakly supervised, and few-shot learning.
 
-**My recent primary research question** revolves around improving performance in unseen domains through continual learning.
+**My recent primary research question** is how to develop scalable and sustainable segmentation models through lifelong learning.
 
 Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
