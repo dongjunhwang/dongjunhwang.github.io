@@ -54,9 +54,9 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 <br>
 
-- <font size="5"><b>A New Benchmark for Few-Shot Class-Incremental Learning: Redefining the Upper Bound</b></font>
-Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>†</sup>. [<a href="https://arxiv.org/pdf/2503.10003">Preprint</a>]
-    - _arXiv preprint: 2503.10003_
+- <font size="5"><b>Does Prior Data Matter? Exploring Joint Training in the Context of Few-Shot Class-Incremental Learning</b></font>
+Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>†</sup>.
+    - _ICCV 2025 Workshop on <a href="https://sites.google.com/view/clvision2025/overview?authuser=0">Continual Learning in Computer Vision</a>_
 
 <br>
 
