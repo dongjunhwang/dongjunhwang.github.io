@@ -9,8 +9,8 @@ hide_footer: true
 # Dongjun Hwang
 [<a href="https://www.linkedin.com/in/dongjun-hwang-985752203/">linkedin</a>] [<a href="https://scholar.google.com/citations?user=JlOEQwYAAAAJ&hl=ko">google scholar</a>] [<a href="https://github.com/dongjunhwang">github</a>]
 
-(Updated in 2025.01)
-Curriculum vitae can download <b><a href="https://drive.google.com/file/d/1Ww0PHBGS_SCjUvCIa7ouLWLKitLWaLDB/view?usp=drive_link">HERE</a></b>.
+(Updated in 2025.08)
+Curriculum vitae can download <b><a href="https://drive.google.com/file/d/144xiZW3j6Epz75ds3aAV_fDwI9L8B0nk/view?usp=sharing">HERE</a></b>.
 
 <img style="margin-right: 50px; margin-left: 50px; margin-bottom: 50px; margin-top: 50px;" align="right" src="img/dongjun.svg" alt="image" width="250" />
 
