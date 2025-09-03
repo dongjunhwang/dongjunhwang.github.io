@@ -44,36 +44,36 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 ---
 
 ### Publications
-<b><font size="4">* Equal Contribution.  † Corresponding Author.</font></b>
+<b><font size="4">* Co-first Authors.  † Co-corresponding Authors.</font></b>
 
 <br>
 
 - <font size="5"><b>OVS Meets Continual Learning: Towards Sustainable Open-Vocabulary Segmentation</b></font>
-<b>Dongjun Hwang</b>, Yejin Kim, Minyoung Lee, Seong Joon Oh, Junsuk Choe<sup>†</sup>.
+<b>Dongjun Hwang</b>, Yejin Kim, Minyoung Lee, Seong Joon Oh, Junsuk Choe.
     - _In submission._
 
 <br>
 
 - <font size="5"><b>Does Prior Data Matter? Exploring Joint Training in the Context of Few-Shot Class-Incremental Learning</b></font>
-Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>†</sup>.
+Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>†</sup>. <a href="https://arxiv.org/abs/2503.10003">[arXiv]</a> <a href="https://github.com/shiwonkim/Joint_FSCIL">[Code]</a>
     - _ICCV 2025 Workshop on <a href="https://sites.google.com/view/clvision2025/overview?authuser=0">Continual Learning in Computer Vision</a>_
 
 <br>
 
 - <font size="5"><b>Small Object Matters in Weakly Supervised Object Localization</b></font>
-<b>Dongjun Hwang</b>, Seong Joon Oh, Junsuk Choe<sup>†</sup>. <a href="https://www.sciencedirect.com/science/article/pii/S092523122501166X?dgcid=coauthor">[Journal]</a> <a href="https://github.com/dongjunhwang/small_object_wsol">[Code]</a>
+<b>Dongjun Hwang</b>, Seong Joon Oh, Junsuk Choe. <a href="https://www.sciencedirect.com/science/article/pii/S092523122501166X?dgcid=coauthor">[Journal]</a> <a href="https://github.com/dongjunhwang/small_object_wsol">[Code]</a>
     - _Neurocomputing_, 2025. <b>(SJR Q1; IF: 5.50)</b>
 
 <br>
 
 - <font size="5"><b>Curriculum Learning with Class-label Composition for Weakly Supervised Semantic Segmentation</b></font>
-<b>Dongjun Hwang</b>, Hyoseo Kim, Doyeol Baek, Hyunbin Kim, Inhye Kye, Junsuk Choe<sup>†</sup>. <a href="https://www.sciencedirect.com/science/article/pii/S0167865524003714">[Journal]</a>
+<b>Dongjun Hwang</b>, Hyoseo Kim, Doyeol Baek, Hyunbin Kim, Inhye Kye, Junsuk Choe. <a href="https://www.sciencedirect.com/science/article/pii/S0167865524003714">[Journal]</a>
     - _Pattern Recognition Letters_, 2025. <b>(SJR Q1; IF: 3.90)</b>
 
 <br>
 
 - <font size="5"><b>Entropy Regularization for Weakly Supervised Object Localization</b></font>
-<b>Dongjun Hwang</b>, Jung-Woo Ha, Hyunjung Shim, Junsuk Choe<sup>†</sup>. <a href="https://www.sciencedirect.com/science/article/pii/S0167865523000831">[Journal]</a>
+<b>Dongjun Hwang</b>, Jung-Woo Ha, Hyunjung Shim, Junsuk Choe. <a href="https://www.sciencedirect.com/science/article/pii/S0167865523000831">[Journal]</a>
     - _Pattern Recognition Letters_, 2023. <b>(SJR Q1; IF: 4.75)</b>
 
 ---
