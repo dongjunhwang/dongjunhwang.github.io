@@ -10,7 +10,7 @@ hide_footer: true
 [<a href="https://www.linkedin.com/in/dongjun-hwang-985752203/">linkedin</a>] [<a href="https://scholar.google.com/citations?user=JlOEQwYAAAAJ&hl=ko">google scholar</a>] [<a href="https://github.com/dongjunhwang">github</a>]
 
 (Updated in 2025.09)
-Curriculum vitae can download <b><a href="https://drive.google.com/file/d/1LLiwZjPM9qDHAQ0gCpSXDhJM5bMjmRl9/view?usp=sharing">HERE</a></b>.
+Curriculum vitae can download <b><a href="https://drive.google.com/file/d/1s4UwdVgxQ7q4KiR3okldMnJwsLLmMRLX/view?usp=sharing">HERE</a></b>.
 
 <img style="margin-right: 50px; margin-left: 50px; margin-bottom: 50px; margin-top: 50px;" align="right" src="img/dongjun.svg" alt="image" width="250" />
 
@@ -34,6 +34,8 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 #### News
 
+- 2025.09: 1 paper accepted in _NeurIPS 2025_.
+- 2025.08: 1 paper accepted in _ICCV 2025 Workshop on CLVISION_.
 - 2025.05: I have joined Tübingen AI Center as a Visiting Researcher.
 - 2025.05: 1 paper accepted in _Neurocomputing_. <b>(SJR Q1; IF: 5.50)</b>
 - 2025.01: 1 paper accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 3.90)</b>
@@ -50,13 +52,13 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 - <font size="5"><b>OVS Meets Continual Learning: Towards Sustainable Open-Vocabulary Segmentation</b></font>
 <b>Dongjun Hwang</b>, Yejin Kim, Minyoung Lee, Seong Joon Oh, Junsuk Choe.
-    - _In submission._
+    - _NeurIPS 2025_.
 
 <br>
 
 - <font size="5"><b>Does Prior Data Matter? Exploring Joint Training in the Context of Few-Shot Class-Incremental Learning</b></font>
 Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>†</sup>. <a href="https://arxiv.org/abs/2503.10003">[arXiv]</a> <a href="https://github.com/shiwonkim/Joint_FSCIL">[Code]</a>
-    - _ICCV 2025 Workshop on <a href="https://sites.google.com/view/clvision2025/overview?authuser=0">Continual Learning in Computer Vision</a>_
+    - _ICCV 2025 Workshop on <a href="https://sites.google.com/view/clvision2025/overview?authuser=0">Continual Learning in Computer Vision</a>_.
 
 <br>
 
