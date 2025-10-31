@@ -34,14 +34,14 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 #### News
 
-- 2025.09: 1 paper accepted in _NeurIPS 2025_.
-- 2025.08: 1 paper accepted in _ICCV 2025 Workshop on CLVISION_.
+- 2025.09: 1 paper was accepted in _NeurIPS 2025_.
+- 2025.08: 1 paper was accepted in _ICCV 2025 Workshop on CLVISION_.
 - 2025.05: I have joined Tübingen AI Center as a Visiting Researcher.
-- 2025.05: 1 paper accepted in _Neurocomputing_. <b>(SJR Q1; IF: 5.50)</b>
-- 2025.01: 1 paper accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 3.90)</b>
+- 2025.05: 1 paper was accepted in _Neurocomputing_. <b>(SJR Q1; IF: 5.50)</b>
+- 2025.01: 1 paper was accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 3.90)</b>
 - 2024.09: I have received a grant from the NRF Fellowship for PhD students.
 - 2024.08: I have been accepted as a Visiting Student at CMU through a program organized by IITP.
-- 2023.03: 1 paper accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 4.75)</b>
+- 2023.03: 1 paper was accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 4.75)</b>
 
 ---
 
@@ -51,13 +51,13 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 <br>
 
 - <font size="5"><b>OVS Meets Continual Learning: Towards Sustainable Open-Vocabulary Segmentation</b></font>
-<b>Dongjun Hwang</b>, Yejin Kim, Minyoung Lee, Seong Joon Oh, Junsuk Choe.
+<b>Dongjun Hwang</b>, Yejin Kim, Minyoung Lee, Seong Joon Oh, Junsuk Choe. <a href="https://arxiv.org/abs/2410.11536">[Paper]</a> <a href="https://github.com/dongjunhwang/ConOVS">[Code]</a>
     - _NeurIPS 2025_.
 
 <br>
 
 - <font size="5"><b>Does Prior Data Matter? Exploring Joint Training in the Context of Few-Shot Class-Incremental Learning</b></font>
-Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>†</sup>. <a href="https://arxiv.org/abs/2503.10003">[arXiv]</a> <a href="https://github.com/shiwonkim/Joint_FSCIL">[Code]</a>
+Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>†</sup>. <a href="https://openaccess.thecvf.com/content/ICCV2025W/CLVision/papers/Kim_Does_Prior_Data_Matter_Exploring_Joint_Training_in_the_Context_ICCVW_2025_paper.pdf">[Paper]</a> <a href="https://github.com/shiwonkim/Joint_FSCIL">[Code]</a>
     - _ICCV 2025 Workshop on <a href="https://sites.google.com/view/clvision2025/overview?authuser=0">Continual Learning in Computer Vision</a>_.
 
 <br>
@@ -86,7 +86,7 @@ Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>
 
 - **M.S. in Department of Artificial Intelligence**, Sogang University, Mar. 2022 – Feb. 2024
     - Advisor: <a href="https://sites.google.com/site/junsukchoe/">Junsuk Choe</a>
-    - Thesis: Curriculum Learning with Class-label Composition for Weakly Supervised Semantic Segmentation
+    - Thesis: Curriculum Learning with Class-label Composition for Weakly Supervised Semantic Segmentation <a href="http://www.dcollection.net/handler/sogang/000000076718">[Paper]</a>
 
 - **B.S. in Department of Computer Science and Engineering**, Sogang University, Mar. 2018 – Feb. 2022
 <br><br>
@@ -97,7 +97,7 @@ Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>
 
 - **Visiting Student at Carnegie Mellon University**, <a href="https://www.msit.go.kr/bbs/view.do?sCode=user&mId=129&mPid=224&pageIndex=&bbsSeqNo=100&nttSeqNo=3178606&searchOpt=ALL&searchTxt=">IITP AI Intensive Education Program</a>, Aug. 2024 - Feb. 2025
     - **Project 1 (Lecture Code: 11-785)**: Invisible Watermarks: Attacks and Robustness [<a href="https://arxiv.org/abs/2412.12511">Report</a>]
-    - **Project 2 (Lecture Code: 11-775)**: A New Benchmark for Few-Shot Class-Incremental Learning: Redefining the Upper Bound [<a href="https://arxiv.org/abs/2503.10003">Report</a>]
+    - **Project 2 (Lecture Code: 11-775)**: Exploring Joint Training in the Context of Few-Shot Class-Incremental Learning [<a href="https://arxiv.org/abs/2503.10003">Report</a>]
 <br><br>
 
 ### Awards & Scholarship
