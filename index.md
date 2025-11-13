@@ -34,6 +34,7 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 #### News
 
+- 2025.11: I have received a grant from the AI SeoulTech Graduate Fellowship for PhD students.
 - 2025.09: 1 paper was accepted in _NeurIPS 2025_.
 - 2025.08: 1 paper was accepted in _ICCV 2025 Workshop on CLVISION_.
 - 2025.05: I have joined Tübingen AI Center as a Visiting Researcher.
@@ -101,6 +102,8 @@ Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>
 <br><br>
 
 ### Awards & Scholarship
+- <a href="https://www.hissf.or.kr/home/kor/M821806781/scholarship/business/view.do?idx=cb00d1a0008a85e71a41b8741facbffe2dbd6a77a20eb1b71e36951b400f8100">**AI SeoulTech Graduate Fellowship for PhD students**</a>, Seoul Scholarship Foundation, Sep. 2025 - Feb. 2026
+- **BK21 Research Group Performance Presentation (5MT) in Sogang University**, 2nd Prize, Nov. 2025 [<a href="https://www.sogang.ac.kr/ko/detail/548265?namepage=StoryMedia&text=%EC%84%9C%EA%B0%95%20Story&redirect=%2Fko%2Fstory%2Fmedia-center%3Ftab%3D1">News</a>]
 - <a href="https://www.nrf.re.kr/biz/info/info/view?menu_no=378&biz_no=416">**NRF Fellowship for PhD students**</a>, NRF Korea, Sep. 2024 - Aug. 2025
 - <a href="https://gradsch.sogang.ac.kr/front/cmsboardview.do?siteId=gradsch&bbsConfigFK=404&pkid=904933">**Ph.D. Research Competency Enhancement Program**</a>, Sogang University, Mar. 2024 - Feb. 2025 
 - **Smilegate AI Major (DHE) Scholarship**, Smilegate, Mar. 2022 – Feb. 2024
