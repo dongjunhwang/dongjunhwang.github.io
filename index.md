@@ -102,6 +102,7 @@ Shiwon Kim*, <b>Dongjun Hwang*<sup>†</sup></b>, Sungwon Woo *, Rita Singh<sup>
 <br><br>
 
 ### Awards & Scholarship
+- **2025 Graduate Student Outstanding Paper Award in Sogang University**, Dec. 2025 [<a href="https://gradsch.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=404&siteId=gradsch&pkid=931011">Notice</a>]
 - <a href="https://www.hissf.or.kr/home/kor/M821806781/scholarship/business/view.do?idx=cb00d1a0008a85e71a41b8741facbffe2dbd6a77a20eb1b71e36951b400f8100">**AI Seoul Tech Scholarship for PhD students**</a>, Seoul Scholarship Foundation, Sep. 2025 - Feb. 2026
 - **BK21 Research Group Performance Presentation (5MT) in Sogang University**, 2nd Prize, Nov. 2025 [<a href="https://www.sogang.ac.kr/ko/detail/548265?namepage=StoryMedia&text=%EC%84%9C%EA%B0%95%20Story&redirect=%2Fko%2Fstory%2Fmedia-center%3Ftab%3D1">News</a>]
 - <a href="https://www.nrf.re.kr/biz/info/info/view?menu_no=378&biz_no=416">**NRF Fellowship for PhD students**</a>, NRF Korea, Sep. 2024 - Aug. 2025
