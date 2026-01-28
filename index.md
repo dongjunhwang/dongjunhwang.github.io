@@ -33,7 +33,7 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 <br>
 
 #### News
-
+- 2026.01: 1 paper was accepted in _ICLR 2026_.
 - 2025.11: I have received a grant from the AI Seoul Tech Scholarship for PhD students.
 - 2025.09: 1 paper was accepted in _NeurIPS 2025_.
 - 2025.08: 1 paper was accepted in _ICCV 2025 Workshop on CLVISION_.
@@ -48,6 +48,12 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 ### Publications
 <b><font size="4">* Co-first Authors.  † Co-corresponding Authors.</font></b>
+
+<br>
+
+- <font size="5"><b>Enhancing Multi-Image Understanding through Delimiter Token Scaling</b></font>
+Minyoung Lee, Yeji Park, <b>Dongjun Hwang</b>, Yejin Kim, Seong Joon Oh, Junsuk Choe. <a href="https://openreview.net/forum?id=7QFf05KrOm">[Paper]</a>
+    - _ICLR 2026_.
 
 <br>
 
