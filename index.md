@@ -33,10 +33,11 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 <br>
 
 #### News
-- 2026.01: 1 paper was accepted in _ICLR 2026_.
+- 2026.03: 1 paper was accepted at _CVPR 2026 Findings_.
+- 2026.01: 1 paper was accepted at _ICLR 2026_.
 - 2025.11: I have received a grant from the AI Seoul Tech Scholarship for PhD students.
-- 2025.09: 1 paper was accepted in _NeurIPS 2025_.
-- 2025.08: 1 paper was accepted in _ICCV 2025 Workshop on CLVISION_.
+- 2025.09: 1 paper was accepted at _NeurIPS 2025_.
+- 2025.08: 1 paper was accepted at _ICCV 2025 Workshop on CLVISION_.
 - 2025.05: I have joined Tübingen AI Center as a Visiting Researcher.
 - 2025.05: 1 paper was accepted in _Neurocomputing_. <b>(SJR Q1; IF: 5.50)</b>
 - 2025.01: 1 paper was accepted in _Pattern Recognition Letters_. <b>(SJR Q1; IF: 3.90)</b>
@@ -48,6 +49,12 @@ Contact: <b>djhwang(at)sogang(dot)ac(dot)kr</b>
 
 ### Publications
 <b><font size="4">* Co-first Authors.  † Co-corresponding Authors.</font></b>
+
+<br>
+
+- <font size="5"><b>Training-Free Uncertainty-guided Logit Adjustment for Few-Shot Class-Incremental Learning</b></font>
+Sungwon Woo, <b>Dongjun Hwang</b>, Shiwon Kim, Junsuk Choe, Jongho Nang
+    - _CVPR 2026 Findings_.
 
 <br>
 
