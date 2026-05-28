@@ -1,0 +1,87 @@
+primary_name: "Dongjun Hwang"
+secondary_name: ""
+navbar_name: "Dongjun Hwang"
+
+positions:
+- name: Ph.D. Student @ Sogang University
+
+email: "djhwang@sogang.ac.kr"
+cv_link: https://drive.google.com/file/d/1UXl1XkHY-CpEC6ZJc1QPJ8ciz57SbfOB/view?usp=sharing
+gscholar: JlOEQwYAAAAJ
+github: dongjunhwang
+linkedin: dongjun-hwang-985752203
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am currently a Ph.D. Student in the Department of Computer Science and Engineering at Sogang University,
+    supervised by <a href="https://sites.google.com/site/junsukchoe/" target="_blank">Prof. Junsuk Choe</a>.
+    Prior to this, I obtained my M.S. Degree in the Department of Artificial Intelligence at Sogang University
+    advised by the same supervisor. Previously, I received a B.S. Degree at the same university.
+  </p>
+  <p>
+    <strong>Research Interests</strong>: I research how to make vision-language models (VLMs) more scalable. 
+    In particular, my work focuses on how to continually train VLMs on new datasets without training them from scratch, 
+    and how to unlearn existing knowledge from VLMs. I also explore how to scale VLMs using imperfect datasets, 
+    such as self-supervised, semi-supervised, weakly supervised, and few-shot learning datasets.
+  </p>
+  <p>
+    <strong>My recent primary research question</strong> is to analyze how the scalability of VLMs affects vision-language-action models (VLAs).
+  </p>
+
+portrait_url: /assets/images/photos/dongjunhwang.png
+
+education:
+- name: Sogang University
+  logo: /assets/images/badges/sogang.png
+  position: >-
+    Department of Computer Science and Engineering <br/>
+    Ph.D. Student
+  date: Mar. 2024 – Present
+- name: Sogang University
+  logo: /assets/images/badges/sogang.png
+  position: >-
+    Department of Artificial Intelligence <br/>
+    M.S.
+  date: Mar. 2022 – Feb. 2024
+- name: Sogang University
+  logo: /assets/images/badges/sogang.png
+  position: >-
+    Department of Computer Science and Engineering <br/>
+    B.S.
+  date: Mar. 2018 – Feb. 2022
+
+experience:
+- name: Tübingen AI Center
+  logo: /assets/images/badges/tubingen.png
+  position: >-
+    Visiting Researcher <br/>
+    Host: <a href="https://coallaoh.github.io/" target="_blank">Prof. Seong Joon Oh</a>
+  date: May. 2025 – July. 2025
+- name: Carnegie Mellon University
+  logo: /assets/images/badges/cmu.png
+  position: >-
+    Visiting Student <br/>
+    <a href="https://www.msit.go.kr/bbs/view.do?sCode=user&mId=129&mPid=224&pageIndex=&bbsSeqNo=100&nttSeqNo=3178606&searchOpt=ALL&searchTxt=" target="_blank">IITP AI Intensive Education Program</a>
+  date: Aug. 2024 – Feb. 2025
+
+awards:
+- name: 2025 Graduate Student Outstanding Paper Award, Sogang University
+  date: 2025
+  url: https://gradsch.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=404&siteId=gradsch&pkid=931011
+- name: AI Seoul Tech Scholarship for PhD students, Seoul Scholarship Foundation
+  date: 2025
+  url: https://www.hissf.or.kr/home/kor/M821806781/scholarship/business/view.do?idx=cb00d1a0008a85e71a41b8741facbffe2dbd6a77a20eb1b71e36951b400f8100
+- name: BK21 Research Group Performance Presentation (5MT), 2nd Prize, Sogang University
+  date: 2025
+  url: https://www.sogang.ac.kr/ko/detail/548265?namepage=StoryMedia&text=%EC%84%9C%EA%B0%95%20Story&redirect=%2Fko%2Fstory%2Fmedia-center%3Ftab%3D1
+- name: NRF Fellowship for PhD students, NRF Korea
+  date: 2024
+  url: https://www.nrf.re.kr/biz/info/info/view?menu_no=378&biz_no=416
+- name: Ph.D. Research Competency Enhancement Program, Sogang University
+  date: 2024
+  url: https://gradsch.sogang.ac.kr/front/cmsboardview.do?siteId=gradsch&bbsConfigFK=404&pkid=904933
+- name: Smilegate AI Major (DHE) Scholarship
+  date: 2022
+- name: 34th IPIU Workshop, Bronze Award
+  date: 2022

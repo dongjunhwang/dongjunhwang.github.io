@@ -1,20 +1,16 @@
-<footer class="footer">
-    <div class="container">
-        
-        {% if site.footer_menu %}
-        <div class="columns is-multiline">
-            {% for item in site.data[site.footer_menu] %}
-            <div class="column has-text-centered">
-                <div>
-                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+<footer class="footer border-top py-2 mt-5 bg-white small">
+    <div class="{% if page.container_class %}{{ page.container_class }}{% else %}container-lg{% endif %}">
+        <div class="row my-3">
+            <div class="col-6">
+                <div class="text-muted">
+                    <i>Last updated: {{ "now" | date: "%b %Y" }}</i>
                 </div>
             </div>
-            {% endfor %}
-        </div>
-        {% endif %}
-
-        <div class="content is-small has-text-centered">
-            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+            <div class="col-6">
+                <div class="text-right text-muted">
+                    {{ site.data.display.footer_text }}
+                </div>
+            </div>
         </div>
     </div>
 </footer>
