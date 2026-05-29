@@ -21,8 +21,9 @@ short_bio: >-
   </p>
   <p>
     <strong>Research Interests</strong>: I research how to make vision-language models (VLMs) more scalable. 
-    In particular, my work focuses on how to continually train VLMs on new datasets without training them from scratch, 
-    and how to unlearn existing knowledge from VLMs. I also explore how to scale VLMs using imperfect datasets, 
+    In particular, my work focuses on continually training VLMs on new datasets and 
+    unlearning existing knowledge from VLMs without training them from scratch. 
+    I also explore how to scale VLMs using imperfect datasets, 
     such as self-supervised, semi-supervised, weakly supervised, and few-shot learning datasets.
   </p>
   <p>
