@@ -13,4 +13,7 @@ authors:
   - Shiwon Kim
   - Junsuk Choe
   - Jongho Nang
+links:
+  Paper: https://openaccess.thecvf.com/content/CVPR2026F/html/Woo_Training-Free_Uncertainty-guided_Logit_Adjustment_for_Few-Shot_Class-Incremental_Learning_CVPRF_2026_paper.html
+  Code: https://github.com/sungwon-woo/ULA
 ---
